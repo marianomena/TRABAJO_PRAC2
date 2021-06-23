@@ -6,5 +6,5 @@ Continuando con la creación de un juego de damas que hasta el momento tenia sol
 le daremos movimiento al tablero.
 
 ### GithubPages 
-Para ver como ha quedado la página de Mini-Damas hacer click [aquí](https://gonzalodecastro.github.io/Juego-de-Damas-Personalizado/)
+Para ver como ha quedado la página de Mini-Damas hacer click [aquí](https://github.com/marianomena/TRABAJO_PRAC2/blob/master/)
 
