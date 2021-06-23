@@ -1,9 +1,8 @@
 # Juego-de-Damas-Personalizado
-Juego de Damas Online inspirado en otros de la nube
+Juego de Damas Online inspirado en Minidamas.com
 
 ## Código utilizado
-Continuando con la creación de un juego de damas que hasta el momento tenia solo codigo HTML y CSS por lo tanto era un sitio estático, ahora con el uso de Javascript
-le daremos movimiento al tablero.
+Se agrega al codigo HTML y CSS, la creacion del tablero con JavaScript
 
 ### GithubPages 
 Para ver como ha quedado la página de Mini-Damas hacer click [aquí](https://github.com/marianomena/TRABAJO_PRAC2/tree/master/)
